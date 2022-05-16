@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW1_4(원형연결)", "HW1_4(원형연결)\HW1_4(원형연결).vcxproj", "{1B03D8B8-0651-4F7C-BC42-6C685A262524}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW1_5(이중연결)", "HW1_5(이중연결)\HW1_5(이중연결).vcxproj", "{4EDA10D8-112C-4C18-9BD9-6A7215FD030A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW1_5(텍스트에디터)", "HW1_5(텍스트에디터)\HW1_5(텍스트에디터).vcxproj", "{2BD0E102-D886-4EAB-8822-79FC67FB155C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW1_3(4주차 6p)", "HW1_3(4주차 6p)\HW1_3(4주차 6p).vcxproj", "{49083DC4-2E41-408C-B58A-C9BD58525794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B03D8B8-0651-4F7C-BC42-6C685A262524}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B03D8B8-0651-4F7C-BC42-6C685A262524}.Debug|Win32.Build.0 = Debug|Win32
+		{1B03D8B8-0651-4F7C-BC42-6C685A262524}.Release|Win32.ActiveCfg = Release|Win32
+		{1B03D8B8-0651-4F7C-BC42-6C685A262524}.Release|Win32.Build.0 = Release|Win32
+		{4EDA10D8-112C-4C18-9BD9-6A7215FD030A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EDA10D8-112C-4C18-9BD9-6A7215FD030A}.Debug|Win32.Build.0 = Debug|Win32
+		{4EDA10D8-112C-4C18-9BD9-6A7215FD030A}.Release|Win32.ActiveCfg = Release|Win32
+		{4EDA10D8-112C-4C18-9BD9-6A7215FD030A}.Release|Win32.Build.0 = Release|Win32
+		{2BD0E102-D886-4EAB-8822-79FC67FB155C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BD0E102-D886-4EAB-8822-79FC67FB155C}.Debug|Win32.Build.0 = Debug|Win32
+		{2BD0E102-D886-4EAB-8822-79FC67FB155C}.Release|Win32.ActiveCfg = Release|Win32
+		{2BD0E102-D886-4EAB-8822-79FC67FB155C}.Release|Win32.Build.0 = Release|Win32
+		{49083DC4-2E41-408C-B58A-C9BD58525794}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49083DC4-2E41-408C-B58A-C9BD58525794}.Debug|Win32.Build.0 = Debug|Win32
+		{49083DC4-2E41-408C-B58A-C9BD58525794}.Release|Win32.ActiveCfg = Release|Win32
+		{49083DC4-2E41-408C-B58A-C9BD58525794}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

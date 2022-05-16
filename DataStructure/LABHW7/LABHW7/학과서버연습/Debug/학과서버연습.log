@@ -1,0 +1,18 @@
+﻿Build started 2020-10-23 오후 4:26:08.
+     1>Project "C:\Users\Home\OneDrive\바탕 화면\자료구조\LABHW7\LABHW7\학과서버연습\학과서버연습.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\학과서버연습.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "학과서버연습.c"
+         학과서버연습.c
+     1>c:\users\home\onedrive\바탕 화면\자료구조\labhw7\labhw7\학과서버연습\학과서버연습.c(11): error C3872: '0x2003': this character is not allowed in an identifier
+     1>c:\users\home\onedrive\바탕 화면\자료구조\labhw7\labhw7\학과서버연습\학과서버연습.c(12): error C2054: expected '(' to follow ' '
+     1>c:\users\home\onedrive\바탕 화면\자료구조\labhw7\labhw7\학과서버연습\학과서버연습.c(13): error C2085: 'insert_last' : not in formal parameter list
+     1>c:\users\home\onedrive\바탕 화면\자료구조\labhw7\labhw7\학과서버연습\학과서버연습.c(13): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\home\onedrive\바탕 화면\자료구조\labhw7\labhw7\학과서버연습\학과서버연습.c(69): warning C4013: 'insert_last' undefined; assuming extern returning int
+     1>c:\users\home\onedrive\바탕 화면\자료구조\labhw7\labhw7\학과서버연습\학과서버연습.c(69): warning C4047: '=' : 'ListNode *' differs in levels of indirection from 'int'
+     1>Done Building Project "C:\Users\Home\OneDrive\바탕 화면\자료구조\LABHW7\LABHW7\학과서버연습\학과서버연습.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.20

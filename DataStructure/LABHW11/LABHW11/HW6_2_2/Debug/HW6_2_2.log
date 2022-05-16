@@ -1,0 +1,41 @@
+﻿Build started 2020-11-15 오후 11:50:23.
+     1>Project "C:\Users\Home\Downloads\HW6_1n6_2뼈대\HW6_2_2\HW6_2_2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HW6_2_2b.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt HW6_2_2.c queue.c
+         queue.c
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\queue.c(8): warning C4013: 'exit' undefined; assuming extern returning int
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\queue.c(29): warning C4013: 'malloc' undefined; assuming extern returning int
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\queue.c(58): warning C4013: 'free' undefined; assuming extern returning int
+         HW6_2_2.c
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\hw6_2_2.c(52): warning C4013: 'init' undefined; assuming extern returning int
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\hw6_2_2.c(54): warning C4013: 'enqueue' undefined; assuming extern returning int
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\hw6_2_2.c(55): warning C4013: 'is_empty' undefined; assuming extern returning int
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\hw6_2_2.c(56): warning C4013: 'dequeue' undefined; assuming extern returning int
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\hw6_2_2.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\home\downloads\hw6_1n6_2뼈대\hw6_2_2\hw6_2_2.c(73): warning C4101: 'u' : unreferenced local variable
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\HW6_2_2b.exe.embed.manifest.res" Debug\HW6_2_2b_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Home\Downloads\HW6_1n6_2뼈대\Debug\HW6_2_2b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW6_2_2b.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Home\Downloads\HW6_1n6_2뼈대\Debug\HW6_2_2b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Home\Downloads\HW6_1n6_2뼈대\Debug\HW6_2_2b.lib" /MACHINE:X86 Debug\HW6_2_2b.exe.embed.manifest.res
+         Debug\HW6_2_2.obj
+         Debug\queue.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\HW6_2_2b.exe.embed.manifest" /manifest Debug\HW6_2_2b.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\HW6_2_2b.exe.embed.manifest.res" Debug\HW6_2_2b_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Home\Downloads\HW6_1n6_2뼈대\Debug\HW6_2_2b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW6_2_2b.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Home\Downloads\HW6_1n6_2뼈대\Debug\HW6_2_2b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Home\Downloads\HW6_1n6_2뼈대\Debug\HW6_2_2b.lib" /MACHINE:X86 Debug\HW6_2_2b.exe.embed.manifest.res
+         Debug\HW6_2_2.obj
+         Debug\queue.obj
+         HW6_2_2.vcxproj -> C:\Users\Home\Downloads\HW6_1n6_2뼈대\Debug\HW6_2_2b.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HW6_2_2b.unsuccessfulbuild".
+         Touching "Debug\HW6_2_2b.lastbuildstate".
+     1>Done Building Project "C:\Users\Home\Downloads\HW6_1n6_2뼈대\HW6_2_2\HW6_2_2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.73
